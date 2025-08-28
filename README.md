@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SlahtalabMohsen/](https://github.com/SlahtalabMohsen/)
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [https://medium.com/@slahtalabmohsen](https://medium.com/@slahtalabmohsen)
 
 - 📫 How to reach me **slahtlabmohsen@gmail.com**
 
