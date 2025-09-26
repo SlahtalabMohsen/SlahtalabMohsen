@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Elegance: My Journey Building the Miyabi Theme for VS Code](https://slahtalabmohsen.medium.com/crafting-elegance-my-journey-building-the-miyabi-theme-for-vs-code-d62e1476b085?source=rss-75a5b3f374ff------2)
 - [Taming Your Music Library: How I Built Meta Note to Master Audio Metadata Chaos](https://slahtalabmohsen.medium.com/taming-your-music-library-how-i-built-meta-note-to-master-audio-metadata-chaos-3898cb63f4c6?source=rss-75a5b3f374ff------2)
 <!-- BLOG-POST-LIST:END -->
 
