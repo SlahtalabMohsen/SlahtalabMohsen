@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Organize Your Learning Like a Pro: How I Built an Obsidian-Friendly Course Dashboard in Python](https://slahtalabmohsen.medium.com/organize-your-learning-like-a-pro-how-i-built-an-obsidian-friendly-course-dashboard-in-python-c1f746a516c2?source=rss-75a5b3f374ff------2)
 - [Crafting Elegance: My Journey Building the Miyabi Theme for VS Code](https://slahtalabmohsen.medium.com/crafting-elegance-my-journey-building-the-miyabi-theme-for-vs-code-d62e1476b085?source=rss-75a5b3f374ff------2)
 - [Taming Your Music Library: How I Built Meta Note to Master Audio Metadata Chaos](https://slahtalabmohsen.medium.com/taming-your-music-library-how-i-built-meta-note-to-master-audio-metadata-chaos-3898cb63f4c6?source=rss-75a5b3f374ff------2)
 <!-- BLOG-POST-LIST:END -->
